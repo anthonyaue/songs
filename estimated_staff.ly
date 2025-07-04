@@ -12,8 +12,8 @@
     g2.~ 2 c2 | g2. c2 f2 \break
     g2.~ 2 c2 | g2.~ 2 c4 f4 \break
     g2.~ 2 c2 | g2. f2 c2 \break
-    g2.~ 2 c4 g4 | c2. f2 g2 \break
-    g2.~ 2 c4 g4 | c2. f2 g2 \break
+    g2.~ 2 c4 g4 | g2. f2 c2 \break
+    g2.~ 2 c4 g4 | g2. f2 c2 \break
     g2.~ 2 c4 g4 | g2. f2 c2 \break
     g2.~ 2 c4 g4 | g2. f2 c2 \break
     d1:m~ d2.:m | e1:7~ e2.:7 \break
@@ -34,10 +34,10 @@
     g2.~ 2 c,2 | g2. c2 f2
     g2.~ 2 c,2 | g2. r2 c4 f4
     g2.~ 2 c2  | g2. f2 c2
-    g2.~ 2 c4 g4 | c2. f2 g2
-    g2.~ 2 c4 g4 | c2. f,2 g2 
-    g2.~ 2 c4 g4 | g2. f2 c2
-    g2.~ 2 c4 g4 | g2. f'2 c2
+    g2.~ 2 c4 g4 | g2. f2 c'2
+    g2.~ 2 c4 g4 | g2. f2 c'2 
+    g2.~ 2 c4 g4 | g2. f2 c'2
+    g2.~ 2 c4 g4 | g2. f2 c'2
     d1~ d2. | e1~ e2.
     d1~ d2. | e1~ e2.
     d1~ d2. | e1~ e2.
